@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\Debug\Postlab3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Postlab3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Postlab3.map</FILE>
+  <FILE>Postlab3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>27</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>231</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OV0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>129</LINE></ISR_TIMER0_OV0>
+  <TABLA7SEG><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>39</LINE></TABLA7SEG>
+  <SETUP><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>45</LINE></SETUP>
+  <INIT_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>111</LINE></INIT_T0>
+  <LOOP><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>97</LINE></LOOP>
+  <ENTRAR_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>130</LINE></ENTRAR_T0>
+  <P1><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>140</LINE></P1>
+  <P2><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>158</LINE></P2>
+  <SEGUIR_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>178</LINE></SEGUIR_T0>
+  <INC_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>187</LINE></INC_T0>
+  <RESET_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>191</LINE></RESET_T0>
+  <SALIR_T0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>218</LINE></SALIR_T0>
+  <INC_DIS7><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>195</LINE></INC_DIS7>
+  <INCRME><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>200</LINE></INCRME>
+  <RESET_C><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>204</LINE></RESET_C>
+  <INCR_DE><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>210</LINE></INCR_DE>
+  <RESET_D><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>214</LINE></RESET_D>
+  <ENTRAR><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>233</LINE></ENTRAR>
+  <C_PB0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>248</LINE></C_PB0>
+  <C_PB1><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>267</LINE></C_PB1>
+  <SALIR><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>294</LINE></SALIR>
+  <ESPERA_0><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>253</LINE></ESPERA_0>
+  <C_PB0_D><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>259</LINE></C_PB0_D>
+  <N1_add><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>289</LINE></N1_add>
+  <ESPERA_1><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>271</LINE></ESPERA_1>
+  <C_PB1_D><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>277</LINE></C_PB1_D>
+  <N1_res><FILE>C:\Users\angel\Documents\Universidad\Quinto Semestre\Programación de micros\Post lab 3\Postlab3\Postlab3\main.asm</FILE><LINE>285</LINE></N1_res>
+ </LABELS>
+</ASSEMBLER_INFO>
